@@ -18,6 +18,4 @@ Instructions:
 
 - shooter get rebound, and pass recievers need to relocate for the next shot
 
-
-
-  
+[Home](./shooting.md)

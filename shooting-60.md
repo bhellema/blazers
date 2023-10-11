@@ -21,3 +21,5 @@ Coaches: if they don't make the goal
 - start again
 - or start to zero
 - do not make them do sprints, shoot more and be successful
+
+[Home](./shooting.md)
