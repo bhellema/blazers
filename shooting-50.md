@@ -1,6 +1,8 @@
 # Shooting 50s
 
-Position: left and right side of the 3 point line
+
+![50](images/50.png)
+
 2 lines and everyone with a ball but first shooter
 
 - one line cuts to the elbow (or near it)
@@ -9,8 +11,6 @@ Position: left and right side of the 3 point line
 
 Focus: on calling for the ball, hands up and count your makes!
 Focus on inside foot.
-
-![50](images/50.png)
 
 Next Stage:
 https://youtu.be/hOox5EXfWow?si=l95vOIy3oQK9AmBB&t=394
