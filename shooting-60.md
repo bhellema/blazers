@@ -1,3 +1,4 @@
+[Home](./shooting.md)
 # Shooting 60s
 Video: https://youtu.be/hOox5EXfWow?si=m_oIUL-f3OpaKQJJ&t=675
 

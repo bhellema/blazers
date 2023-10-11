@@ -1,5 +1,6 @@
-# Shooting 50s
+[Home](./shooting.md)
 
+# Shooting 50s
 
 ![50](images/50.png)
 

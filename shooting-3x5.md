@@ -1,3 +1,5 @@
+[Home](./shooting.md)
+
 # 3 by 5
 Video: https://youtu.be/hOox5EXfWow?si=KfGCyQlObdv5o027&t=1092
 
