@@ -1,4 +1,5 @@
-# Shooting 50
+# Shooting 50s
+
 Position: left and right side of the 3 point line
 2 lines and everyone with a ball but first shooter
 
