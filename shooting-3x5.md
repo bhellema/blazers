@@ -3,7 +3,7 @@
 # 3 by 5
 Video: https://youtu.be/hOox5EXfWow?si=KfGCyQlObdv5o027&t=1092
 
-Spread everyone around the 3 point line. Two teams across at each basket with 3 balls per team.
+Two teams at different baskets, with 3 balls per team.
 
 ![3x5](images/3x5.png)
 
