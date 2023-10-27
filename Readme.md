@@ -1,7 +1,11 @@
 # Warm Up
-[Warm ups](./warmup.md)
+[Warm ups](./drills/warmup.md)
 
-# Shooting
-[Shooting](./shooting.md)
+# Shooting Drills
+[Shooting](./drills/shooting.md)
+
+# Offense
+[Offense](./offense/offense.md)
 
 # Defense
+[Defense](./defense/defense.md)
