@@ -17,7 +17,7 @@ Slot to wing pass - the slot will go through the key, and the other two week-sid
 Slot to slot - the player making the pass exchanges with the weak-side wing.
 
 #### Ball Reversal Rule
-Wing to slot the ball must be reversed - the slot and wing exchange.
+Wing to slot pass, the ball must be reversed - the slot and wing exchange.
 
 ### Post Entry & Split Motion
 1. The post position starts on week-side allowing for the PG to drive if it's available.
