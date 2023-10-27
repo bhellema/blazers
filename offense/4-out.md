@@ -3,10 +3,10 @@
 ## YouTube 
 [Villinova](https://www.youtube.com/watch?v=BSjpPg7qJvY)
 
-1. Set Up & Motion
-2. Post Entry & Split Action
-3. Slot PNR
-4. Dribble Drive
+1. [Set Up & Motion](https://youtu.be/BSjpPg7qJvY?si=qVJdfYW9-vMBP_kC&t=57)
+2. [Post Entry & Split Action](https://youtu.be/BSjpPg7qJvY?si=OE_C8uPeTcW_oxX2&t=127)
+3. [Slot PNR](https://youtu.be/BSjpPg7qJvY?si=veDT9sTOhP5OV3CJ&t=222)
+4. [Dribble Drive](https://youtu.be/BSjpPg7qJvY?si=1m6rT4pS4ZmzWwfK&t=316)
 
 ### Set Up & Motion
 Slot, Slot, Wing, Wing, and a Dunker
