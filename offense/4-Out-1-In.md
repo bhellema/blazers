@@ -13,7 +13,7 @@ Slot, Slot, Wing, Wing, and a Dunker
 The post player starts on the weak side dunker spot.
 
 #### Motion
-Slot to wing pass - the slot will go through the key, and the other two week-side players fill the slow
+Slot to wing pass - the slot will go through the key, and the other two week-side players fill the slot
 Slot to slot - the player making the pass exchanges with the weak-side wing.
 
 #### Ball Reversal Rule
