@@ -1,4 +1,4 @@
-# Villanova's 4-Out Motion Offense
+# Villanova's 4-Out 1 In Motion Offense
 
 ## YouTube 
 [Villinova](https://www.youtube.com/watch?v=BSjpPg7qJvY)
