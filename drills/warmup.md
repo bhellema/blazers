@@ -1,3 +1,3 @@
 # Warm Up Drills
 
-## [20-2](./20-2.md)
+## [20-2](./warmup/20-2.md)
