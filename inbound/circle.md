@@ -1,4 +1,4 @@
-# Shapes
+# Circle
 
 - 1 (opposite side of inbounding position) and 2 are top of key
 - 3 (opposite side of inbounding position) is low block along with 5
@@ -9,7 +9,7 @@ Instuctions:
 5 steps out one step drawing big man away from 3 cutting around
 3 gets inbound pass for a lay-up on right side of rim
 
-![Screen](./curl.png)
+![Circle](./circle.png)
 
 Meanwhile: 5 can pop action back for a pass, 4 does a hand off pass
 Meanwhile: 2 screens for 1 across key, 1 cuts to inbounder side, to look for either a pass or pop action
