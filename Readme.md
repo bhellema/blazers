@@ -7,5 +7,8 @@
 # Offense
 [Offense](./offense/offense.md)
 
+## Inbound Plays
+[Inbound Plays](./inbound/inbounds.md)
+
 # Defense
 [Defense](./defense/defense.md)
