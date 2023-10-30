@@ -1,6 +1,6 @@
 # Block
 
-Video: https://youtu.be/QS6zfRVXJVY?si=MZxRDaBitSFQcpVM&t=130
+Video: [https://youtu.be/QS6zfRVXJVY?si=MZxRDaBitSFQcpVM&t=130](https://youtu.be/QS6zfRVXJVY?si=MZxRDaBitSFQcpVM&t=130)
 
 ![Block](./block.png)
 
