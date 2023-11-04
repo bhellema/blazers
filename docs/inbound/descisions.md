@@ -1,6 +1,6 @@
 # Descisions
 
-Video: https://youtu.be/QS6zfRVXJVY?si=iqvY0yotZeztbEmx&t=146
+Video: [https://youtu.be](https://youtu.be/QS6zfRVXJVY?si=iqvY0yotZeztbEmx&t=146)
 
 3 is positioned close to inbounder.  
 5 is positioned on the block 1 meter out same side as inbounder.
