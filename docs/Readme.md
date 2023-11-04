@@ -1,5 +1,5 @@
 # Practices
-[Pratices](./practices/practices.md)
+[Pratices](./practices/README.md)
 
 # Warm Up
 [Warm ups](./drills/warmup.md)
