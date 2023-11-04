@@ -1,5 +1,5 @@
-# Practice
-[Schedule A](./practice/schedule-a.md)
+# Practices
+[Pratices](./practices/practices.md)
 
 # Warm Up
 [Warm ups](./drills/warmup.md)
@@ -15,3 +15,7 @@
 
 # Defense
 [Defense](./defense/defense.md)
+
+
+## Resources
+https://youtu.be/bElR2ZcB-Fo?si=ztqs85w8X8FcmcAI&
