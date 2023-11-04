@@ -6,6 +6,6 @@
 | [Mikan Drill](./../drills/mikan.md) | 4 minutes | 
 | [Dribbling 1 Ball](./../drills/dribbling-1.md) | 4 minutes |
 | [60](./../drills/shooting-60.md) | 3 minutes |
-
+| [50](./../drills/shooting-50.md) | 2 minutes |
 
 
