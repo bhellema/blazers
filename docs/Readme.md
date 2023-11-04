@@ -16,6 +16,5 @@
 # Defense
 [Defense](./defense/defense.md)
 
-
 ## Resources
 https://youtu.be/bElR2ZcB-Fo?si=ztqs85w8X8FcmcAI&

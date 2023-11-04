@@ -7,15 +7,20 @@ Video: https://youtu.be/hOox5EXfWow?si=3Hd4DCKEBpwkgx4v&t=265
 
 Everyone needs a ball, but first shooter.  Two lines starting outside 3 point line, elbow extended.
 
-Instructions:
+## Setup:
+- two lines
+- 6 balls
+
+## Goal:
+- 50 makes in two minutes
+
+## Instructions:
 - first player without the ball cuts to the elbow (or near it)  
 - ball is passed from opposite line to shooter
 - shooter plant inside foot, catch and square up to shoot, _Where are we going to land?  In our foot prints_
-- shooter  then sprints to get it and passes to next passer and sprints to end of the line
-
+- shooter then sprints to get it and passes to next passer and sprints to end of the line
 
 Focus: on calling for the ball, hands up and count your makes!
-
 
 **Next Drill:**
 https://youtu.be/hOox5EXfWow?si=l95vOIy3oQK9AmBB&t=394
