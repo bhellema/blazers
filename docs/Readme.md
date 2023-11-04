@@ -1,3 +1,6 @@
+# Practice
+[Schedule A](./practice/schedule-a.md)
+
 # Warm Up
 [Warm ups](./drills/warmup.md)
 
