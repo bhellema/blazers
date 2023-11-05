@@ -1,4 +1,4 @@
-# 4 Out to 5 Out - Transition
+# Speed Transition
 These drills are to encourage communication.
 
 ## Setup
