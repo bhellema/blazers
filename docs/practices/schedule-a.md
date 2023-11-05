@@ -1,6 +1,6 @@
 | Drill | Time |
 | ------- | -------- |
-| [2 Ball Dribbling Forewards](../drills/2-ball-dribbling.md) | 2 minutes |
+| [2 Ball Dribbling Forwards](../drills/2-ball-dribbling.md) | 2 minutes |
 | [2 Ball Dribbling Eyes Closed Sitting](../drills/2-ball-dribbling.md) | 2 minutes |
 | [2 Ball Dribbling - Backwards](../drills/2-ball-dribbling.md) | 2 minutes |
 | [Mikan Drill](../drills/mikan.md) | 4 minutes | 
@@ -12,6 +12,6 @@
 | [Passing Weave](../drills//passing-weaves.md) | 3 minutes |
 | [Fast Break](../drills/fast-break-drill.md) | 4 minutes |
 | [Defensive Transition](../drills/defense-transition.md) | 30 seconds |
-| [2 Ball Dribbling Forewards](../drills/2-ball-dribbling.md) | 2 minutes |
+| [2 Ball Dribbling Forwards](../drills/2-ball-dribbling.md) | 2 minutes |
 | [2 Ball Dribbling Eyes Closed Sitting](../drills/2-ball-dribbling.md) | 2 minutes |
 | [2 Ball Dribbling - Backwards](../drills/2-ball-dribbling.md) | 2 minutes |
