@@ -17,5 +17,5 @@
 [Defense](./defense/defense.md)
 
 ## Resources
-https://youtu.be/bElR2ZcB-Fo?si=ztqs85w8X8FcmcAI&
-https://www.youtube.com/watch?v=H7KELnrxUO8
+- https://youtu.be/bElR2ZcB-Fo?si=ztqs85w8X8FcmcAI&
+- https://www.youtube.com/watch?v=H7KELnrxUO8
