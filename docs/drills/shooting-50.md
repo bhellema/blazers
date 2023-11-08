@@ -1,7 +1,7 @@
 [Home](./shooting.md)
 
 # Shooting 50s
-Video: https://youtu.be/hOox5EXfWow?si=3Hd4DCKEBpwkgx4v&t=265
+[Video](https://youtu.be/hOox5EXfWow?si=3Hd4DCKEBpwkgx4v&t=265) 
 
 ![50](images/50.png)
 
@@ -23,7 +23,7 @@ Everyone needs a ball, but first shooter.  Two lines starting outside 3 point li
 Focus: on calling for the ball, hands up and count your makes!
 
 **Next Drill:**
-https://youtu.be/hOox5EXfWow?si=l95vOIy3oQK9AmBB&t=394
+[Video:](https://youtu.be/hOox5EXfWow?si=l95vOIy3oQK9AmBB&t=394)
 Get your rebound and sprint to opposite corner, and then **quick tight dribbles** until you have to pass.
 
 Focus on: 
@@ -34,4 +34,4 @@ Focus on:
 **Next Drill**: Add a defender like a coach to force a pass around the defender.
 Time: 2 minutes fast
 
-[Home](./shooting.md)
+[Shooting Drills](shooting.md)

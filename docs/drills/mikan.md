@@ -14,3 +14,5 @@
 ### Notes
 - Next is shoot layup outside of the charge line.
 - Back to the inside of the key
+
+[Drills](drills.md)

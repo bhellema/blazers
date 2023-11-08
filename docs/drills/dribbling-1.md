@@ -14,3 +14,4 @@ more time on the chair drills.
 - Right hand as fast as possible, keeping the ball low
 - Left hand as fast as possible, keeping the ball low
 
+[Drills](drills.md)

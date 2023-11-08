@@ -22,3 +22,5 @@ These drills help for cordination and speed.
 
 - alternative
   - sit legs straight, alternate, together etc
+
+[Drills](drills.md)

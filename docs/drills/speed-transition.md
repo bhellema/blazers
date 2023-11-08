@@ -16,3 +16,5 @@ These drills are to encourage communication.
 - the volleyball court is the playing area
   - between attack lines, you do not take a pass, they get an extra defender at half court.
   - right side of the floor, dribble with right, left and left - train both sides of the body
+
+[Drills](drills.md)

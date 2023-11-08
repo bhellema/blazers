@@ -1,7 +1,7 @@
 [Home](./shooting.md)
 
 # Shooting 60s
-Video: https://youtu.be/hOox5EXfWow?si=m_oIUL-f3OpaKQJJ&t=675
+[Video](https://youtu.be/hOox5EXfWow?si=m_oIUL-f3OpaKQJJ&t=675)
 
 ![60](images/60.png)
 
@@ -33,4 +33,4 @@ Coaches: if they don't make the goal
 - or start to zero
 - do not make them do sprints, shoot more and be successful
 
-[Home](./shooting.md)
+[Shooting Drills](shooting.md)

@@ -12,3 +12,5 @@
   - ball carrier runs the floor getting the passes and then does a layup
   - passing to the side, middle, side, then a layup.  
 - after a layup everyone follows the pass to the next spot
+
+[Drills](drills.md)
