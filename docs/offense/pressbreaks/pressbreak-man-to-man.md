@@ -19,4 +19,4 @@ Using the 4 across we can have the team all jump to the ball for an easy inbound
 If the pass can't hit 5, 1 and 2 cut through the key and cross and inbound the ball.
 
 **Scenario:**
-If the pass can't hit 5, 1 and 2 cut through the key however this time 2 cuts around 1 who sets a screen and 2 takes off down the court.  At which point 1 can turn and seal, or bounce open for a pass.  If they can't get the pass, then that player keeps going and sets a screen of 5 and 5 cuts around the screen looking for the pass.
+If the pass can't hit 5, 1 and 2 cut through the key however this time 2 cuts around 1 who sets a screen and 2 takes off down the court.  At which point 1 can turn and seal, or bounce open for a pass.  If they can't get the pass, then that player keeps going and sets a screen on 5's man, and 5 cuts around the screen looking for the pass.
